@@ -1,0 +1,57 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/jC4rUTn",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Accueille",
+                    "title1": "CJS ASA PvP",
+                    "text1": "Bienvenue sur le serveur CJS ASAPVP.\n\nJe vous invite à nous rejoindre sur le discord pour prendre connaissance du règlement, de fair une brève présentation de vous et votre tribut afin d'accéder au shield de protection nouvelle arrivant(7 jours immunité).\n\nNous sommes ouverts à toute suggestion ou idée qui pourrait contribuer à améliorer le serveur, donc n'hésitez pas à nous en faire part sous la rubrique suggestion.\nBon jeux a vous.\n\n\nWelcome to the CJS ASAPVP server.\n\nI invite you to join us on the discord to read the regulations, to make a brief presentation of you and your tribute in order to access the new arrival protection shield (7 days immunity).\nWe are open to any suggestions or ideas that could help improve the server, so please let us know under the suggestions section.\nGood games to you.",
+                    "imageurl": "https://imgur.com/jC4rUTn"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Règlement/Rules.",
+                    "title1": "Règlement :",
+                    "title2": "Rules:",
+                    "text2": "RÈGLES GÉNÉRALES\n\n1.1 La langue recommandée pour la communication est le français ou l'anglais.\n1.2 Pas de hacks, de duplication, de maillage.\n1.3 Enfreindre le code de conduite de Wildcard de quelque manière que ce soit est interdit.\n1.4 Les administrateurs ne sont pas obligés de restituer les biens ou les dinosaures perdus en raison d'une situation dans le jeu, de bugs, de pannes ou de restaurations.\nI1.5 N'oubliez pas de faire preuve de politesse et de respect envers les autres.\n\n\n\nRÈGLES JcJ\n\n2.1 Faire équipe avec une autre tribu est autorisé : Rejoignez un raid, défendant une autre tribu contre une attaque.\n2.2 Meshbiting avec Titan ? Giga, Carcha... est interdit même de desseller.\n2.3 Utiliser la portée du champ de force pour bloquer un joueur ou un dinosaure à plusieurs reprises est interdit.\n2.4 Placer un joueur en cage et autoriser pour une période maximale de 30 minutes.\n\n\nRÈGLES DE CONSTRUCTION\n\nSp3.1 Ne pas construire de structures invisibles ou invincibles ou de structures +80% dans le maillage (doit être visible ET cassable) nous pouvons le supprimer sans autorisation.\n3.2 Ne construisez pas de zones d'apparition de joueurs ni dans ou à proximité de Swamp Cave (coord. 62.7/37.3).\n\n3.3 Ne pas intégrer d'éléments défonçables, de tyroliennes, de grappins, de kaprosuchus/pelagronis, de filets ou de spots de chaise.\n3.4 Ne pas construire de point maillé. Si votre spot a accès au maillage, c'est interdit.\n3.5 L'utilisation de tunnels/structures, murs, plafonds pour contourner les tourelles est interdite (cette règle ne s'applique pas sur la plateforme selle/radeau).\n3.6 Les structures flottantes sont interdites.\n3.7 Il est interdit d'abuser des structures d'empilage (plus de 2) - Pas de pilier sur voûte, pas de jalonnement de voûtes à l'entrée...\n3.8 Vous ne pouvez pas utiliser ce type de structures dans votre spam ou entrée de grotte (Plus de 2 coffres-forts, cryofridges, émetteurs, pilier + coffres-forts dessus..)\n3.9 Problème de tête dure, la paroi du réfrigérateur est interdite.\n3.10 Il est interdit d'accrocher des structures à la frontière mondiale.\n\n\nRÈGLES DE DISCORD\n\n4.1 Tous les canaux doivent être utilisés de manière appropriée et uniquement pour l'usage auquel ils sont destinés.\n4.2 La publicité ou la communication promotionnelle d'autres communautés ou clusters est totalement interdite.\n4.3 Les contenus ou médias pornographiques, gores et explicites sont totalement interdits.\n4.4 Il est totalement interdit de révéler des informations personnelles à des personnes.\n4.5 Le partage de logiciels de triche ou d'exploits dans le jeu est totalement interdit.\n4.6 Les insultes dures, le racket, le racisme... en cas de discorde seront sévèrement punis. Il existe un canal salé pour le trashtalk mais cette règle s'appliquera toujours sur ce canal.\n4.7 Les administrateurs ont toujours le dernier mot. Les impolitesses, insultes, abus de messages personnels, @ping ou plaintes ne seront pas tolérés et pourront être sanctionnés jusqu'au bannissement.",
+                    "imageurl": "https://imgur.com/jC4rUTn"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/NAHJwdYyeW"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Shop",
+                    "url": "https://discord.com/channels/1190728360373002361/1190993255215661096"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Don",
+                    "url": ""
+                }
+            }
+        ]
+    }
+}
